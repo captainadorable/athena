@@ -1,0 +1,7 @@
+{
+    "token": "",
+    "prefix": "ath!",
+    "colors": {"default": "#f1bc29", "error": "#f86236"},
+    "ownerID": "529982737298358289",
+    "invite": "https://discord.com/oauth2/authorize?client_id=971819939201708042&scope=bot&permissions=8"
+}
